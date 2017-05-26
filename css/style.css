@@ -1,0 +1,59 @@
+
+.image{
+  width:200px;
+}
+h1{
+  font-size:25px;
+  font-family: elephant;
+  color:PURPLE;
+  }
+h2{
+  font-size:35px;
+  font-family: elephant;
+  color:Green;
+  }
+.mainfont{
+  font-size:16px;
+  font-family: 'Metamorphous', cursive;
+  color:blue;
+}
+.secfont{
+  font-size:20px;
+  font-family: 'Lobster', cursive;
+  color:Red;
+}
+.thfont{
+  font-size:20px;
+  font-family: 'Lobster', cursive;
+  color:Brown;
+}
+a{
+  font-size:20px;
+  font-family: 'Lobster', cursive;
+  color:Green;
+}
+.border{
+  border-color:black;
+  border-width:10px;
+  border-style:ridge;
+  border-radius:30%;
+}
+
+body{
+    background-color: grey;
+
+}
+img {
+    display: block;
+    margin: 0 auto;
+}
+.greenyellow{
+  background-color:greenyellow;
+}
+.snow{
+  background-color:snow;
+}
+.back{
+  background-color:mediumaquamarine;
+}
+
